@@ -5,28 +5,28 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="220" y="80" width="120" height="260" as="geometry"/>
+                    <mxGeometry x="217" y="90" width="120" height="260" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="310" y="130" width="20" height="20" as="geometry"/>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="227" y="130" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="310" y="168" width="20" height="20" as="geometry"/>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="227" y="168" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="311" y="204" width="20" height="20" as="geometry"/>
+                <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="228" y="204" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="311" y="242" width="20" height="20" as="geometry"/>
+                <mxCell id="7" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="228" y="242" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="312" y="275" width="20" height="20" as="geometry"/>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="229" y="275" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="312" y="313" width="20" height="20" as="geometry"/>
+                <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="229" y="313" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="Todo list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="252" y="100" width="60" height="30" as="geometry"/>
+                    <mxGeometry x="227" y="97.5" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="Enter task" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
                     <mxGeometry x="240" y="125" width="60" height="30" as="geometry"/>
@@ -45,6 +45,27 @@
                 </mxCell>
                 <mxCell id="16" value="Enter task" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
                     <mxGeometry x="247" y="308" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+                    <mxGeometry x="304" y="130" width="21" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="170" width="21" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="207" width="21" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+                    <mxGeometry x="306" y="247" width="21" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="274" width="21" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+                    <mxGeometry x="306" y="314" width="21" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Add task" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="1">
+                    <mxGeometry x="287" y="106" width="43" height="13" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

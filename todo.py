@@ -34,7 +34,11 @@ list_text.grid(row=0, column=0, columnspan=2)
 task_entry = tk.Entry(width=20)
 task_entry.grid(row=1, column=1)
 
-add_task = ttk.Button(text='+', width=3, command=lambda: write_text('todo.txt', task_entry.get()))
+add_task = ttk.Button(
+    text='+', 
+    width=3, 
+    command=lambda: write_text('todo.txt', task_entry.get())
+    )
 add_task.grid(row=1, column=0)
 
 checkbox_a = tk.Checkbutton(text='')

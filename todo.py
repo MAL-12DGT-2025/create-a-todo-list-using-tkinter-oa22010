@@ -28,10 +28,10 @@ root.title('Todo List')
 tasks = read_text('todo.txt')
 
 # Creates widgets
-list_text = tk.Label(text='Todo List')
+list_text = ttk.Label(text='Todo List')
 list_text.grid(row=0, column=0, columnspan=2)
 
-task_entry = tk.Entry(width=20)
+task_entry = ttk.Entry(width=20)
 task_entry.grid(row=1, column=1)
 
 add_task = ttk.Button(
